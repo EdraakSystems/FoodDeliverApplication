@@ -234,12 +234,12 @@ const OrderSummry = () => {
         </div>
 
       </div>
-      <Message showModal={showModal} closeModal={setShowModal}
+      {/* <Message showModal={showModal} closeModal={setShowModal}
         msg={'Opss, faild to create order!'}
         img={"https://image.flaticon.com/icons/png/512/835/835408.png"}
         type="error"
 
-      />
+      /> */}
     </>
   );
 };

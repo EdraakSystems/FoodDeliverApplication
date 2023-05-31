@@ -403,8 +403,12 @@
     width: 90%;
   }
 
-  .all-products .product-card img {
+  .all-products .product-card .img {
     width: 90%;
+  }
+
+  .all-products .product-card img {
+    width: 95%;
   }
 
   .all-products .product-card .des {
